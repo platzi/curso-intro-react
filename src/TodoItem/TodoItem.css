@@ -9,6 +9,7 @@
 }
 
 .TodoItem-p {
+  color: #1E1E1F;
   margin: 24px 0 24px 24px;
   width: calc(100% - 120px);
   font-size: 18px;
